@@ -1,5 +1,3 @@
-package cs182;
-
 import java.util.ArrayList;
 
 public class ProjectEuler3 {
